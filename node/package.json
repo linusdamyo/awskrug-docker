@@ -5,7 +5,6 @@
   "author": "linusdamyo <linusdamyo@gmail.com>",
   "main": "server.js",
   "scripts": {
-
     "start": "node server.js"
   },
   "dependencies": {
